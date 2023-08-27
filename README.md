@@ -10,7 +10,7 @@ PizzaBite, a  web application for ordering pizzas with diverse functionalities. 
 - **Frontend:**  React JS and Redux for state managemnt
 - **Backend:**  Node JS and Express JS 
 - ** Payments:** Stripe 
-- **Database Excellence:** MongoDB 
+- **Database :** MongoDB 
 
 ##  Key Features of application
 
@@ -30,6 +30,6 @@ PizzaBite, a  web application for ordering pizzas with diverse functionalities. 
 
 - **Order History:**
   - Easily view your past orders.
-  - 
+  
 - **Admin panel:**
   - Admin tools for order monitoring and pizza management.
